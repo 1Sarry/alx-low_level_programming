@@ -1,13 +1,12 @@
-#include <stdio.h>
+#include <stdio,h>
 /**
- *  a C program that prints exactly
- *   "Programming is like building a multilingual puzzle, 
- *   followed by a new line.
- *   main - prints the output
- *   return: 0 if exited properly
+ * a C programm that prints the given out put
+ * "Programming is like building a multilingual puzzle"
+ * main - prints the output
+ * return: 0 if exited properly
  */
 int main(void)
 {
-       	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return	(0):
 }
