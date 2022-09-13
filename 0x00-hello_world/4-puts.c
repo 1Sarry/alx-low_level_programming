@@ -1,4 +1,4 @@
-#include <stdio,h>
+#include <stdio.h>
 /**
  * a C programm that prints the given out put
  * "Programming is like building a multilingual puzzle"
