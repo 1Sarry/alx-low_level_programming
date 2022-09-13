@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints the output
- * return: 0 if exited properly
+ * return: 0 if exited properly, otherwise non zero
  */
 int main(void)
 {
